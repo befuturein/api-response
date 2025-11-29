@@ -1,5 +1,12 @@
 # befuture/api-response
 
+<p align="center">
+    <img src="https://img.shields.io/badge/PHP-%3E=8.1-blue" alt="PHP Version">
+    <img src="https://img.shields.io/github/actions/workflow/status/befutureinteractive/api-response/tests.yml?label=tests" alt="Tests">
+    <img src="https://img.shields.io/badge/Laravel-Package-orange" alt="Laravel Package">
+    <img src="https://img.shields.io/badge/License-MIT-green" alt="MIT License">
+</p>
+
 A lightweight and standardized API JSON response package for Laravel and standalone PHP projects.
 
 ## Features
